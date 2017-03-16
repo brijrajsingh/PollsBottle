@@ -1,0 +1,13 @@
+C:\Users\brsingh\Source\pythonconf\PollsBottle\PollsBottle\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\brsingh\Source\pythonconf\PollsBottle\PollsBottle\obj\Debug\attach_server.py
+C:\Users\brsingh\Source\pythonconf\PollsBottle\PollsBottle\obj\Debug\visualstudio_py_debugger.py
+C:\Users\brsingh\Source\pythonconf\PollsBottle\PollsBottle\obj\Debug\visualstudio_py_repl.py
+C:\Users\brsingh\Source\pythonconf\PollsBottle\PollsBottle\obj\Debug\visualstudio_py_util.py
+C:\Users\brsingh\Source\pythonconf\PollsBottle\PollsBottle\obj\Debug\__init__.py
+C:\Users\brsingh\Source\pythonconf\PollsBottle\PollsBottle\obj\Debug\__main__.py
+C:\Users\brsingh\Source\pythonconf\PollsBottle\PollsBottle\bin\AzureSetup.cfg
+C:\Users\brsingh\Source\pythonconf\PollsBottle\PollsBottle\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\brsingh\Source\pythonconf\PollsBottle\PollsBottle\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\brsingh\Source\pythonconf\PollsBottle\PollsBottle\bin\wfastcgi.py
+C:\Users\brsingh\Source\pythonconf\PollsBottle\PollsBottle\obj\Debug\web.config
+C:\Users\brsingh\Source\pythonconf\PollsBottle\PollsBottle\obj\Debug\web.debug.config
